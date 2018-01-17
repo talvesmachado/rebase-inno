@@ -1,0 +1,17 @@
+html, body {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+#main, .homepage {
+  width: 100%;
+  height: 100%; }
+
+#renderCanvas {
+  width: 100%;
+  height: 100%;
+  touch-action: none; }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGlCQUFnQjtFQUNoQixZQUFjO0VBQ2QsYUFBYztFQUNkLFVBQVc7RUFDWCxXQUFXLEVBQ2Q7O0FBRUQ7RUFDSSxZQUFXO0VBQ1gsYUFBWSxFQUNmOztBQUVEO0VBQ0ksWUFBYztFQUNkLGFBQWM7RUFDZCxtQkFBa0IsRUFDckIiLCJmaWxlIjoibWFpbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJodG1sLCBib2R5IHtcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuICAgIHdpZHRoICAgOiAxMDAlO1xuICAgIGhlaWdodCAgOiAxMDAlO1xuICAgIG1hcmdpbiAgOiAwO1xuICAgIHBhZGRpbmcgOiAwO1xufVxuXG4jbWFpbiwuaG9tZXBhZ2Uge1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIGhlaWdodDogMTAwJTtcbn1cblxuI3JlbmRlckNhbnZhcyB7XG4gICAgd2lkdGggICA6IDEwMCU7XG4gICAgaGVpZ2h0ICA6IDEwMCU7XG4gICAgdG91Y2gtYWN0aW9uOiBub25lO1xufVxuIl0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9 */
